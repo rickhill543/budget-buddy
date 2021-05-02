@@ -27,7 +27,7 @@ This budgeting app is intended to provide a minimalistic approach to dealing wit
 
 </br>
 
-[Budget Buddy](https://budget-buddy.herokuapp.com/)
+[Budget Buddy](https://bude7-13uddy.herokuapp.com/)
 
 ***
 
